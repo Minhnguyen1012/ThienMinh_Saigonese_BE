@@ -58,7 +58,7 @@ const images = [
   {
     name: "Cafe Sữa Đá",
     url:
-      "https://i.pinimg.com/564x/58/77/42/58774250675856db4cec25fec974f018.jpg",
+      "https://i.pinimg.com/474x/07/83/e8/0783e8e23350266ecf66f5ad0758e46b.jpg",
     price: 20,
     category: "Cafe",
     info: "",
@@ -93,7 +93,7 @@ const images = [
   {
     name: "Soda Dâu",
     url:
-      "https://thismessisours.com/wp-content/uploads/2014/07/strawberry-soda-1-4-1.webp",
+      "https://i.pinimg.com/474x/96/66/23/966623b0e577a00c2313c6283edcd210.jpg",
     price: 35,
     category: "drink",
     info: "",
@@ -117,7 +117,7 @@ const images = [
   {
     name: "Café Phin",
     url:
-      "https://lh3.googleusercontent.com/osa2IuRN0BRHKue9CUf-28JnczI0FO2TXNXPzL57RmJ1gmUtpxgPcM-4Ln7Vb4Zs7LorFGE=s85",
+      "https://i.pinimg.com/474x/98/d0/23/98d0237449f83e93c03219ad39a85622.jpg",
     price: 20,
     category: "Cafe",
     info: "",
