@@ -170,9 +170,9 @@ const images = [
     info: "",
   },
   {
-    name: "Bánh Khọt",
+    name: "Bánh Xèo",
     url:
-      "https://cdn.daylambanh.edu.vn/wp-content/uploads/2019/12/banh-khot-mien-nam-hap-dan-600x400.jpg",
+      "https://i.pinimg.com/564x/d0/e4/23/d0e423a228f3d7fadd2d2324dc89e2c0.jpg",
     price: 55,
     category: "VnCuisine",
     info: "",
