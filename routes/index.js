@@ -14,4 +14,6 @@ router.use("/food", foodApi);
 const cartApi = require("./cart.api");
 router.use("/carts", cartApi);
 
+const reviewApi = require("./review.api");
+router.use("/reviews", reviewApi);
 module.exports = router;

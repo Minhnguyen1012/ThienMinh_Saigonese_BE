@@ -11,4 +11,9 @@ const router = express.Router();
 router.get("/", foodController.getAllFood);
 
 router.get("/:id", foodController.getSingleFoodById);
+
+router.post("/", foodController.createNewProduct);
+
+router.delete("/:id", foodController.deleteSingleProduct);
+
 module.exports = router;

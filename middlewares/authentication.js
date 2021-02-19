@@ -1,4 +1,5 @@
 const jwt = require("jsonwebtoken");
+const User = require("../models/User");
 const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
 const authMiddleware = {};
@@ -25,5 +26,10 @@ authMiddleware.loginRequired = (req, res, next) => {
     next(error);
   }
 };
+
+// authMiddleware.adminRequired = (req, res, next) => {
+// let user = await User.findById(req.userId)
+
+// }
 
 module.exports = authMiddleware;

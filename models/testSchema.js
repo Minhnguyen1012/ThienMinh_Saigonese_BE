@@ -17,7 +17,7 @@ const images = [
     name: "Gỏi Cuốn",
     url: "https://i.ibb.co/vPStQ3B/Vietnamese-style-Cold-Rolls1.jpg",
     price: 50,
-    category: "VnCuisine",
+    category: "Vietnamese Cuisine",
     info: "",
   },
   {
@@ -33,7 +33,7 @@ const images = [
     url:
       "https://pupswithchopsticks.com/wp-content/uploads/bo-kho-portrait-new.jpg",
     price: 120,
-    category: "VnCuisine",
+    category: "Vietnamese Cuisine",
     info: "",
   },
 
@@ -42,7 +42,7 @@ const images = [
     url:
       "https://www.cooking-therapy.com/wp-content/uploads/2020/06/Com-Suon-5-scaled.webp",
     price: 50,
-    category: "VnCuisine",
+    category: "Vietnamese Cuisine",
     info: "",
   },
 
@@ -51,7 +51,7 @@ const images = [
     url:
       "https://i.pinimg.com/originals/b5/9a/c2/b59ac265cc9d8af62bc37b611748de63.jpg",
     price: 20,
-    category: "Bread",
+    category: "Vietnamese Cuisine",
     info: "",
   },
 
@@ -166,7 +166,7 @@ const images = [
     url:
       "https://200monanchay.weebly.com/uploads/1/1/1/8/111814259/mon-com-chay-goi-la-sen_orig.jpg",
     price: 120,
-    category: "VnCuisine",
+    category: "Vietnamese Cuisine",
     info: "",
   },
   {
@@ -174,7 +174,7 @@ const images = [
     url:
       "https://i.pinimg.com/564x/d0/e4/23/d0e423a228f3d7fadd2d2324dc89e2c0.jpg",
     price: 55,
-    category: "VnCuisine",
+    category: "Vietnamese Cuisine",
     info: "",
   },
 ];
