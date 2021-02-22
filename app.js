@@ -13,7 +13,7 @@ var indexRouter = require("./routes/index");
 const utilsHelper = require("./helpers/utils.helper");
 
 var app = express();
-
+var cloudinary = require("cloudinary").v2;
 app.use(logger("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
